@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e590d49-ce6f-406c-8a3c-6c85694dc5f4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/intro-spring/target/" />
+    <ignored path="$PROJECT_DIR$/worklog-spring/target/" />
+    <ignored path="$PROJECT_DIR$/worklog-web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Apache Derby (Remote) - WorkLogDb@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Apache Derby (Remote) - WorkLogDb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="JDBC: schema" type="12aa88c4:DerbyImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="projects-spring" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/web/SongController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="82" column="68" selection-start-line="82" selection-start-column="68" selection-end-line="82" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/worklog-web/src/main/resources/templates/song.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="43" column="68" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="68" />
+              <folding>
+                <element signature="e#2#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/domain/Song.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1246">
+              <caret line="107" column="5" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>LocalContainerEntityManagerFactoryBean</find>
+      <find>EnableJ</find>
+      <find>CommandL</find>
+      <find>Qua</find>
+      <find>Platfor</find>
+      <find>setId</find>
+      <find>employees</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\FHHagenberg\Semester_06\09_SWT6UE\projects-spring\worklog-web</dir>
+      <dir>C:\FHHagenberg\Semester_06\09_SWT6UE\projects-spring</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/test/UITest.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/ui/advice/JpaInterceptor.java" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/resources/applicationContext-jpa.xml" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/web/EmployeeControlle.java" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/SpringBootMain.java" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/intro-spring/src/main/java/swt6/spring/basics/hello/GreetingService.java" />
+        <option value="$PROJECT_DIR$/intro-spring/src/main/java/swt6/spring/basics/hello/GreetingClient.java" />
+        <option value="$PROJECT_DIR$/intro-spring/src/main/java/swt6/spring/basics/hello/GreetingConfig.java" />
+        <option value="$PROJECT_DIR$/intro-spring/src/main/resources/swt6/spring/basics/hello/GreetingService.xml" />
+        <option value="$PROJECT_DIR$/intro-spring/src/main/java/swt6/spring/basics/hello/GreetingServiceImpl.java" />
+        <option value="$PROJECT_DIR$/intro-spring/src/main/java/swt6/spring/basics/ioc/logic/javaconfig/WorkLogImpl.java" />
+        <option value="$PROJECT_DIR$/intro-spring/src/main/java/swt6/spring/basics/ioc/test/IocTest.java" />
+        <option value="$PROJECT_DIR$/intro-spring/src/main/java/swt6/spring/basics/ioc/WorkLogConfig.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/domain/LogbookEntry.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/AddressDao.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/AlbumDao.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/AlbumRepository.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/jpa/AlbumDaoJpa.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/EmployeeRepository.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/jpa/LogbookEntryDaoJpa.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/domain/Genre.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/util/SongDuration.java" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/AlbumController.java" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/web/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/resources/templates/layout.html" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/resources/templates/employeeList.html" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/jpa/SongDao.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/SongDao.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/resources/swt6/spring/worklog/test/applicationContext-jpa1.xml" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/SongRepository.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/GenreRepository.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/logic/WorkLogFacade.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/logic/WorkLogImpl1.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/jpa/SongDaoJpa.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/logic/WorkLogImpl2.java" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/domain/Album.java" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/config/DatabaseInitializer.java" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/resources/templates/albumList.html" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/resources/templates/album.html" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/resources/templates/entryList.html" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/web/AlbumController.java" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/web/LogbookEntryController.java" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/resources/locale/messages_de.properties" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/resources/locale/messages.properties" />
+        <option value="$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/domain/Song.java" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/web/SongController.java" />
+        <option value="$PROJECT_DIR$/worklog-web/src/main/resources/templates/song.html" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="worklog-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="worklog-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="worklog-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="derby" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-295" />
+    <option name="width" value="1705" />
+    <option name="height" value="1015" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="swt6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="swt6" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="swt6" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="swt6" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="swt6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="swt6" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="swt6" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="swt6" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="swt6" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="locale" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="locale" type="462c0819:PsiDirectoryNode" />
+              <item name="Resource Bundle 'messages'" type="a6c14932:ResourceBundleNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="worklog-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="derby.remote&#10;derby" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="swt6.spring.basics.ioc.logic.javaconfig" />
+      <recent name="swt6.spring.basics.ioc.logic.annotationbased" />
+      <recent name="swt6.spring.basics.ioc.logic.xmlconfig" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\FHHagenberg\Semester_06\09_SWT6UE\projects-spring\worklog-web\src\main\java\swt6\util" />
+      <recent name="C:\FHHagenberg\Semester_06\09_SWT6UE\projects-spring\worklog-web\src\main\resources" />
+      <recent name="C:\FHHagenberg\Semester_06\09_SWT6UE\projects-spring\worklog-web\src\main\java\swt6\spring\worklog\config" />
+      <recent name="C:\FHHagenberg\Semester_06\09_SWT6UE\projects-spring\worklog-web" />
+      <recent name="C:\FHHagenberg\Semester_06\09_SWT6UE\projects-spring\worklog-spring\src\main\java\swt6\spring\worklog\ui\advice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SpringBootMain">
+    <configuration name="DbTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swt6.spring.worklog.test.DbTest" />
+      <module name="worklog-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swt6.spring.worklog.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreetingClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swt6.spring.basics.hello.GreetingClient" />
+      <module name="intro-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swt6.spring.basics.hello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IocTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swt6.spring.basics.ioc.test.IocTest" />
+      <module name="intro-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swt6.spring.basics.ioc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swt6.spring.worklog.test.LogicTest" />
+      <module name="worklog-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swt6.spring.worklog.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swt6.spring.worklog.SpringBootMain" />
+      <module name="worklog-web" />
+      <option name="PROGRAM_PARAMETERS" value="--debug" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swt6.spring.worklog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="worklog-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="swt6.spring.worklog.SpringBootMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LogicTest" />
+      <item itemvalue="Application.SpringBootMain" />
+      <item itemvalue="Application.IocTest" />
+      <item itemvalue="Application.GreetingClient" />
+      <item itemvalue="Application.DbTest" />
+      <item itemvalue="Spring Boot.SpringBootMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootMain" />
+        <item itemvalue="Application.DbTest" />
+        <item itemvalue="Application.LogicTest" />
+        <item itemvalue="Application.IocTest" />
+        <item itemvalue="Application.GreetingClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e590d49-ce6f-406c-8a3c-6c85694dc5f4" name="Default Changelist" comment="" />
+      <created>1558112489866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558112489866</updated>
+      <workItem from="1558112493836" duration="5028000" />
+      <workItem from="1558252462013" duration="2669000" />
+      <workItem from="1558277087330" duration="31000" />
+      <workItem from="1558282889944" duration="353000" />
+      <workItem from="1558710939548" duration="11354000" />
+      <workItem from="1558763618891" duration="16714000" />
+      <workItem from="1558859840578" duration="11559000" />
+      <workItem from="1558951792931" duration="5915000" />
+      <workItem from="1559073827319" duration="824000" />
+      <workItem from="1559132265454" duration="4694000" />
+      <workItem from="1559216693229" duration="505000" />
+      <workItem from="1559217222311" duration="9131000" />
+      <workItem from="1559291644449" duration="2847000" />
+      <workItem from="1559402620772" duration="2541000" />
+      <workItem from="1559461054762" duration="606000" />
+      <workItem from="1559462696305" duration="39507000" />
+      <workItem from="1559535411138" duration="5270000" />
+      <workItem from="1559573117381" duration="20000" />
+      <workItem from="1559573149993" duration="26000" />
+      <workItem from="1559573210346" duration="4714000" />
+      <workItem from="1559581654619" duration="3163000" />
+      <workItem from="1559586077721" duration="38000" />
+      <workItem from="1559586145558" duration="6400000" />
+      <workItem from="1559592635698" duration="116000" />
+      <workItem from="1559632694000" duration="5148000" />
+      <workItem from="1559644362981" duration="804000" />
+      <workItem from="1559646188996" duration="4042000" />
+      <workItem from="1559651388907" duration="1237000" />
+      <workItem from="1559661508728" duration="3189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="148445000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49899396" visible="true" weight="0.24697986" />
+      <window_info id="Structure" order="1" sideWeight="0.501006" side_tool="true" weight="0.24496645" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.501006" side_tool="true" weight="0.24496645" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.16430596" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38101983" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.14832215" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.1738255" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49899396" visible="true" weight="0.22550336" />
+      <window_info id="Structure" order="1" sideWeight="0.501006" side_tool="true" weight="0.24496645" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.501006" side_tool="true" weight="0.24496645" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.16005665" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30169973" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.19798657" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.1738255" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar!/org/slf4j/Logger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/AlbumController.java" />
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/java/swt6/util/LocalDateTimeEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/resources/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/resources/applicationContext-jpa.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="65" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
+          <folding>
+            <element signature="e#1402#1424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1160">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/AlbumDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/SpringBootMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.1.5.RELEASE/spring-data-jpa-2.1.5.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/AlbumRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/GenreRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/EmployeeDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="63" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/GenericDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/LogbookEntryDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/jpa/AlbumDaoJpa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#0#21#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/jdbc/EmployeeDaoJdbc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="121" column="18" selection-start-line="121" selection-start-column="12" selection-end-line="121" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/resources/swt6/spring/worklog/test/applicationContext-jpa1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="59" column="51" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/resources/swt6/spring/worklog/test/applicationContext-jpa2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="44" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/test/UITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/jpa/EmployeeDaoJpa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/test/DbTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2482">
+          <caret line="167" column="11" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/LogbookEntryRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/EmployeeRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#0#56#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/SongDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/logic/WorkLogFacade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/logic/WorkLogImpl1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2040#2041#0" expanded="true" />
+            <element signature="e#2067#2068#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/SongRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/logic/WorkLogImpl2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="92" column="30" selection-start-line="92" selection-start-column="15" selection-end-line="92" selection-end-column="30" />
+          <folding>
+            <element signature="e#1589#1590#0" expanded="true" />
+            <element signature="e#1641#1642#0" expanded="true" />
+            <element signature="e#2682#2683#0" expanded="true" />
+            <element signature="e#2739#2740#0" expanded="true" />
+            <element signature="e#2886#2887#0" expanded="true" />
+            <element signature="e#2942#2943#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/domain/Genre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/jpa/LogbookEntryDaoJpa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/domain/LogbookEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="71" column="3" selection-start-line="71" selection-start-column="3" selection-end-line="71" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/dao/jpa/SongDaoJpa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/domain/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/domain/Album.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-567">
+          <caret line="20" column="86" selection-start-line="20" selection-start-column="86" selection-end-line="20" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/resources/jpa.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-196" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/resources/templates/albumList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="e#2#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/resources/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="e#2#11#0" expanded="true" />
+            <element signature="e#2#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/resources/locale/messages_de.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/resources/locale/messages.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/resources/templates/songList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="71" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/web/AlbumController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/resources/templates/entry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/resources/templates/album.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/config/DatabaseInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="66" column="4" lean-forward="true" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-spring/src/main/java/swt6/spring/worklog/domain/Song.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1246">
+          <caret line="107" column="5" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/java/swt6/spring/worklog/web/SongController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="82" column="68" selection-start-line="82" selection-start-column="68" selection-end-line="82" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worklog-web/src/main/resources/templates/song.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="43" column="68" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="68" />
+          <folding>
+            <element signature="e#2#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
