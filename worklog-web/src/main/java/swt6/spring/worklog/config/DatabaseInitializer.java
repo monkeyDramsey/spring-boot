@@ -11,7 +11,6 @@ import swt6.spring.worklog.domain.*;
 import swt6.spring.worklog.logic.WorkLogFacade;
 import swt6.util.SongDuration;
 
-@Component
 public class DatabaseInitializer implements CommandLineRunner {
 
   @Autowired
