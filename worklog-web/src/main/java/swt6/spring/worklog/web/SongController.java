@@ -67,9 +67,9 @@ public class SongController {
                              Model model,
                              BindingResult result){
         if(result.hasErrors()){
-            return "entry";
+            return "redirect:/albums/{albumId}/songs";
         } else {
-            Genre genre = new Genre("CLASSIC");
+            Genre genre = new Genre(song.getGenre().getName());
             Album album = workLogFacade.findAlbumById(albumId);
             SongDuration sd = new SongDuration(song.getDuration().getMinutes(), song.getDuration().getSeconds());
             Song s = new Song(song.getTitle(), sd, song.getInterpreter());
@@ -85,16 +85,6 @@ public class SongController {
         }
         return "redirect:/albums/{albumId}/songs";
     }
-
-    /*Genre rock = new Genre("ROCK");
-
-    Album a1 = new Album("Highway to Hell",1979);
-
-    SongDuration sd1 = new SongDuration(3,32);
-    Song s1 = new Song("Girls Got Rhythm", sd1, "ACDC");
-    rock.addSong(s1);
-    a1.addSong(s1);
-    workLog.syncAlbum(a1);*/
 
     @InitBinder
     public void initBinder(WebDataBinder binder){
@@ -134,11 +124,44 @@ public class SongController {
         return "entry";
     }
 
-    @RequestMapping(value="/employees/{employeeId}/entries/{entryId}/update", method = RequestMethod.POST)
-    public String processUpdate(@PathVariable("employeeId") Long employeeId,
-                                @ModelAttribute("entry") LogbookEntry entry,
+    @RequestMapping(value="/albums/{albumId}/songs/{songId}/update", method = RequestMethod.POST)
+    public String processUpdate(@PathVariable("songId") Long songId,
+                                @PathVariable("albumId") Long albumId,
+                                @ModelAttribute("song") Song song,
                                 BindingResult result){
         //model.getAttr ... wenn nicht @ModelAttribut
-        return internalProcessUpdate(employeeId, entry, result);
+        return internalProcessEdit(albumId, song, result);
+    }
+
+
+    private String internalProcessEdit(Long albumId, Song song, BindingResult result) {
+        if(result.hasErrors()){
+            return "redirect:/albums/{albumId}/songs";
+        } else {
+            Genre genre = new Genre(song.getGenre().getName());
+            Album album = workLogFacade.findAlbumById(albumId);
+            SongDuration sd = new SongDuration(song.getDuration().getMinutes(), song.getDuration().getSeconds());
+            Song s = new Song(song.getTitle(), sd, song.getInterpreter());
+            genre.addSong(s);
+            album.addSong(s);
+            workLogFacade.syncAlbum(album);
+
+            logger.debug("added/updated entry {}", song);
+            return "redirect:/albums/{albumId}/songs";
+        }
+    }
+
+
+    @RequestMapping(value="/albums/{albumId}/songs/{songId}/update", method = RequestMethod.GET)
+    public String initEditSong(@PathVariable("songId") Long songId,
+                          @PathVariable("albumId") Long albumId,
+                          Model model){
+        Album album = workLogFacade.findAlbumById(albumId);
+        Song song = workLogFacade.findSongById(songId);
+
+        model.addAttribute("album", album);
+        model.addAttribute("song", song);
+        logger.debug("entry template {}", song);
+        return "editSong";
     }
 }

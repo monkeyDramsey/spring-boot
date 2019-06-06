@@ -103,5 +103,10 @@ public class WorkLogImpl2 implements WorkLogFacade {
         return songRepository.saveAndFlush(song);
     }
 
+    @Override
+    public Song findSongById(Long id) {
+        return songRepository.findById(id).get();
+    }
+
 
 }

@@ -72,6 +72,11 @@ public class WorkLogImpl1 implements WorkLogFacade {
     }
 
     @Override
+    public Song findSongById(Long id) {
+        return null;
+    }
+
+    @Override
     @Transactional(readOnly = true)
     public Employee findEmployeeById(Long id) {
         return employeeDao.findById(id);

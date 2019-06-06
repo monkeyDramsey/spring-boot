@@ -22,4 +22,5 @@ public interface WorkLogFacade {
 
   public List<Song>     findSongsByAlbumId(long id);
   public Song           syncSong(Song song);
+  public Song           findSongById(Long id);
 }

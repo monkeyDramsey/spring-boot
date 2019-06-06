@@ -22,17 +22,17 @@
 						<th>Title</th>
 						<th>Duration</th>
 						<th>Interpreter</th>
+						<th>Genre</th>
 					</tr>
 				</thead>
 				<tbody>
 					<tr th:each="song : ${songs}">
 						<td th:text="${song.title}">Title</td>
 						<td th:text="${song.duration.minutes + 'min ' + song.duration.seconds + 'sec'}">Minutes</td>
-
 						<td th:text="${song.interpreter}">Interpreter</td>
+						<td th:text="${song.genre.name}">Genre</td>
 						<td>
 							<a th:href="@{|/albums/${album.id}/songs/${song.id}/update|}">Edit</a>
-							<a th:href="@{|/albums/${album.id}/songs/${song.id}/delete|}">Delete</a>
 						</td>
 					</tr>
 				</tbody>
